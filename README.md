@@ -1,2 +1,2 @@
-# Bonded-StableCoin
-Bonded Stable Coin system, written in OneScript/oscript.
+# Autonomous agents for bonded stablecoins
+
